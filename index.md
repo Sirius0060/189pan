@@ -1,19 +1,22 @@
-- 签到时间 2025-09-25 10:48:07 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
+- 签到时间 2025-09-25 21:45:34 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
 - ## 执行概览
-- - **启动时间**: 2025-09-25 10:48:07
+- - **启动时间**: 2025-09-25 21:45:34
 - - **账户数量**: 1 个
 - 
 - ## 账户1
-- 登录过程出错: HTTPSConnectionPool(host='open.e.189.cn', port=443): Max retries exceeded with url: /api/logbox/oauth2/autoLogin.do?appId=cloud&version=v1.1&clientType=20010&format=redirect&paras=5D098D687D53249C0127EC89A8232D534A66168D80F43220EF758A4B45C334833C913374667D3B5B3C51262C996B2AB21ABA5AA6DF83FA3B39EC6094CA31DC42C68994ACFDA23DF22550D29752DA70CD88D10F091403815C99B7932C0D3309DC7013536B23478C998309F7E9DF545B66B03C5F3DA571719A1865F03DA86DA3F39F45E0A6C0DD7031BC2577B4379298EA7AAE7E9BB16A8D10BCAA97906C01927E931FACED690B895B4991780DFBA0418F1D9C12D1C1D960EB3DF0FCD7CA3ECAC40AFCE0AA48034CE349D5AD9FC578C0FF1167A76D1FB153BEAF7330FED110A233BE8BC9BF98E1C59B785A4907BF274C66A4F5AD8CE0519BF1B40C14454F60DDD3060FE4607EE1C292EFB4D420B44ED44FC46168585A9F518C5F2BD0F63F58C2ED1714D553FBF6D6F6A4211398DC1842BC5EED4E8E5C196A8CB192B7F7DF73EADB4BB3DB7B2F773320F02885757DACEF6FD9DBCCC41889B33E810AD57E8192927A7305CC0A13984FCEC8DA41F24B38F1E5DA304266CB8E79740BEAE232A3FCFFE4B62FFFC4C86610C1BB994CB1D1CC6197A636E16551A49EDE872AC4B70C8713DE826C0EE4D7D58EBDC834BA997B3E0030930DBCBB484E9CF4112723372CBBF176C56F43A13D6B81D45DA4A88C29CCCE4A87DE26B753079722E0BB844492419640BF4B5713D74C3B3655FFEEB8210E7B48F970BBDA439CC788F5FC6DC18D501C06ED902EA48C77C4E6BA47FD841892A0379FBC00A9A48722EC&sign=3D25301465543D7F780556F5B0110B48D31BC13B (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb04dcac280>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 - ### 执行结果
-- - **登录状态**: 登录失败
-- - **签到结果**: 
+- - **登录状态**: 登录成功
+- - **签到结果**: 签到成功，获得100M空间
+- - **抽奖结果**:
+-   - 🎉 第1次: 抽奖成功，获得天翼云盘50M空间
+-   - ❌ 第2次: 抽奖失败，次数不足
+-   - ❌ 第3次: 抽奖失败，次数不足
 - 
 - ---
 - ## 执行统计
-- - **结束时间**: 2025-09-25 10:52:40
-- - **运行时长**: 273.06 秒
+- - **结束时间**: 2025-09-25 21:45:52
+- - **运行时长**: 18.15 秒
 - 
 - ✅ **所有账户处理完成！**
