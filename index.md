@@ -1,22 +1,23 @@
-- 签到时间 2025-09-30 21:46:25 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
+- 签到时间 2025-10-01 10:56:15 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
 - ## 执行概览
-- - **启动时间**: 2025-09-30 21:46:26
+- - **启动时间**: 2025-10-01 10:56:15
 - - **账户数量**: 1 个
 - 
 - ## 账户1
+- 第1次抽奖出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 - ### 执行结果
 - - **登录状态**: 登录成功
-- - **签到结果**: 已签到，获得86M空间
+- - **签到结果**: 签到成功，获得86M空间
 - - **抽奖结果**:
--   - ❌ 第1次: 抽奖失败，次数不足
+-   - ❌ 第1次: 抽奖出错: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 -   - ❌ 第2次: 抽奖失败，次数不足
 -   - ❌ 第3次: 抽奖失败，次数不足
 - 
 - ---
 - ## 执行统计
-- - **结束时间**: 2025-09-30 21:46:44
-- - **运行时长**: 18.33 秒
+- - **结束时间**: 2025-10-01 10:59:03
+- - **运行时长**: 168.10 秒
 - 
 - ✅ **所有账户处理完成！**
