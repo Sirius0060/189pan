@@ -1,14 +1,14 @@
-- 签到时间 2026-04-05 22:05:18 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
+- 签到时间 2026-04-06 12:25:23 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
 - ## 执行概览
-- - **启动时间**: 2026-04-05 22:05:18
+- - **启动时间**: 2026-04-06 12:25:23
 - - **账户数量**: 1 个
 - 
 - ## 账户1
 - ### 执行结果
 - - **登录状态**: 登录成功
-- - **签到结果**: 已签到，获得25M空间
+- - **签到结果**: 签到成功，获得87M空间
 - - **抽奖结果**:
 -   - ❌ 第1次: 抽奖失败，次数不足
 -   - ❌ 第2次: 抽奖失败，次数不足
@@ -16,7 +16,7 @@
 - 
 - ---
 - ## 执行统计
-- - **结束时间**: 2026-04-05 22:05:35
-- - **运行时长**: 17.18 秒
+- - **结束时间**: 2026-04-06 12:25:43
+- - **运行时长**: 19.92 秒
 - 
 - ✅ **所有账户处理完成！**
