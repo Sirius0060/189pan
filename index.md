@@ -1,19 +1,19 @@
-- 签到时间 2026-06-09 00:55:33 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
+- 签到时间 2026-06-09 13:43:38 [![签到状态](https://github.com/Sirius0060/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Sirius0060/189pan/actions/workflows/main.yml)
 - # 天翼云盘自动签到抽奖程序
 - 
 - ## 执行概览
-- - **启动时间**: 2026-06-09 00:55:33
+- - **启动时间**: 2026-06-09 13:43:38
 - - **账户数量**: 1 个
 - 
 - ## 账户1
-- 没有找到登录链接
+- 登录过程出错: HTTPSConnectionPool(host='m.cloud.189.cn', port=443): Max retries exceeded with url: /udb/udb_login.jsp?pageId=1&pageKey=default&clientType=wap&redirectURL=https://m.cloud.189.cn/zhuanti/2021/shakeLottery/index.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fb413960850>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 - ### 执行结果
 - - **登录状态**: 登录失败
 - - **签到结果**: 
 - 
 - ---
 - ## 执行统计
-- - **结束时间**: 2026-06-09 00:55:38
-- - **运行时长**: 4.89 秒
+- - **结束时间**: 2026-06-09 13:48:07
+- - **运行时长**: 268.71 秒
 - 
 - ✅ **所有账户处理完成！**
